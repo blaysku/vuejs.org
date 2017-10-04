@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Cài đặt
 type: guide
 order: 1
 vue_version: 2.4.4
